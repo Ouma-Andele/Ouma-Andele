@@ -1,5 +1,3 @@
-md
-
 🌟 Earnest Ouma Andele
 Data Analyst | Applied Statistics | Business Intelligence | Workflow Automation (n8n)
 
